@@ -1,0 +1,7 @@
+number: 13760, under i9 9900k CPU, all models are test without GPU.
+
+ProtNN 17035 (encode) 104 (search)
+DeepFold 25017 (encode) 148 (search)
+ContactLib 2944 (encode) 4768 (search)
+DistGNN 1409 (encode) 109 (search)
+NWalign 0 (encode) >6h (search)
